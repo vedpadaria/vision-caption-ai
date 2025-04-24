@@ -38,7 +38,8 @@ An AI-powered tool that automatically generates descriptive captions for uploade
 
 1. Run the application:
    ```bash
-(python app.py)   ```
+python app.py 
+```
 
 2. Upload an image through the interface
 
